@@ -1,4 +1,6 @@
 #!/bin/bash
 
 cd /home/ubuntu
-npm -f install
+sudo apt install npm
+sudo npm install
+
